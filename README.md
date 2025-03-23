@@ -24,7 +24,7 @@ blockchain.
 
 ```bash
 # Clone repository
-git clone https://github.com/yourusername/blockspring.git
+git clone https://github.com/LTPPPP/BlockSpring.git
 cd blockspring
 
 # Xây dựng dự án
