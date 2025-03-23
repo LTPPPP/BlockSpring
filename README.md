@@ -1,4 +1,4 @@
-# Blockchain Library for Java
+# Blockchain for Java
 
 Blockchain cơ bản được viết bằng Java Spring Boot, cung cấp các thành phần cốt lõi để xây dựng ứng dụng dựa trên 
 blockchain.
